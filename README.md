@@ -15,6 +15,7 @@ And here -in this repo- you can find some links or codes of things we've discuss
 * [
 Distance sensing with ultrasonic sensor and Arduino
 ](http://www.tautvidas.com/blog/2012/08/distance-sensing-with-ultrasonic-sensor-and-arduino/)
+* [S4A](http://s4a.cat/) A scratch based too to learn Arduino
 
 ## Simulators
 *You don't need to have Arduino to start learning !*

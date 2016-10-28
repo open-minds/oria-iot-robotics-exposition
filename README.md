@@ -1,7 +1,8 @@
 # IoT & Robotics Exposition (with ORIA)
 This October27th we had an exposition by ORIA association were they showed us their robots & drone & they talked about open hardware (Arduino & Rasbery) & open source software.
+
 We talked about IoT & saw drones, robots and more, and we broke the ice with this amazing world, ORIA's amazing members told us that anyone can learn how make a drone or a robot, we just need some time, passion and allot of motivation.
-And here -in this repo- you can find some links or codes of things we've discussed today
+And here -in this repo- you can find some links or codes of things we've discussed today.
 
 ## MOOC & eBooks
 * [An Introduction to Programming the IoT ](https://www.coursera.org/specializations/iot) (Paid MOOC. *financial aids available !*)
@@ -15,7 +16,7 @@ And here -in this repo- you can find some links or codes of things we've discuss
 * [
 Distance sensing with ultrasonic sensor and Arduino
 ](http://www.tautvidas.com/blog/2012/08/distance-sensing-with-ultrasonic-sensor-and-arduino/)
-* [S4A](http://s4a.cat/) A scratch based too to learn Arduino
+* [S4A](http://s4a.cat/) A scratch based tool to learn Arduino
 
 ## Simulators
 *You don't need to have Arduino to start learning !*
